@@ -1,4 +1,6 @@
-
+CREATE TABLE test (
+	a INTEGER
+);
 
 -- Create and populate our products using a single insert with many rows
 CREATE TABLE products (
