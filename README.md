@@ -9,7 +9,7 @@
 Copyright Debezium Authors.
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-# Debezium Connector for Db2
+# Debezium Connector for db2
 
 Debezium is an open source project that provides a low latency data streaming platform for change data capture (CDC).
 
