@@ -39,7 +39,4 @@ db2 -tvmf /asncdctools/src/asncdctables.sql
 
 db2 -tvmf /asncdctools/src/asncdcaddremove.sql
 
-
-
-
-echo "done"
+echo "Done"
